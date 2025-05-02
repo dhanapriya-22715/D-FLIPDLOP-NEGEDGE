@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b24d46c-10a7-4de6-9d47-8c0db388d4d0)# D-FLIPDLOP-NEGEDGE
+# D-FLIPDLOP-NEGEDGE
 
 **AIM:**
 
@@ -57,6 +57,8 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![image](https://github.com/user-attachments/assets/ea31e582-ef3c-4b20-996c-322ff0a816e7)
 
 
